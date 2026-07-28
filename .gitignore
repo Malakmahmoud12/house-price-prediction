@@ -1,0 +1,19 @@
+# Python & Virtual Envs
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Models & Data (Don't commit raw datasets)
+*.csv
+notebooks/data/
+
+# Node / React Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
