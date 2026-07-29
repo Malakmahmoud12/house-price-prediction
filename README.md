@@ -1,9 +1,7 @@
 ## Screenshots
 
 ### Application Form
-
-![Form Screen](assets/form.png)
+![Form Screen](./assets/form.png)
 
 ### Prediction Result
-
-![Result Screen](assets/result.png)
+![Result Screen](./assets/result.png)
